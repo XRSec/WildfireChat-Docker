@@ -11,7 +11,7 @@ tar -zxvf chat-server.tar.gz -C chat-server
 tar -zxvf app-server.tar.gz -C chat-app
 ```
 
-## Docker-Compose
+## docker-compose.yml
 
 ```dockerfile
 version: "3"
